@@ -102,6 +102,16 @@ void taskBuzzer(void *pv) {
   }
 }
 ```
+BUZZER Core 0:
+
+https://github.com/user-attachments/assets/0f676dee-6f51-4714-a2c5-6e06cab43293
+
+BUZZER Core 1:
+
+https://github.com/user-attachments/assets/9db83a41-3d54-48e9-b8e3-153175b6b4f2
+
+
+
 # Task untuk BUTTON
 ```cpp
 #include <Arduino.h>
@@ -121,6 +131,16 @@ void taskButton(void *pv) {
   }
 }
 ```
+BUTTON Core 0:
+
+https://github.com/user-attachments/assets/2207cf32-366b-4707-b53e-5649cfd6c430
+
+BUTTON Core 1:
+
+https://github.com/user-attachments/assets/23133d3f-925c-4868-8318-4bb19525ebd1
+
+
+
 # Task untuk POTENTIOMETER
 ```cpp
 #include <Arduino.h>
@@ -135,6 +155,16 @@ void taskPot(void *pv) {
   }
 }
 ```
+POTENTIOMETER Core 0:
+
+https://github.com/user-attachments/assets/c37425e8-345d-4a95-9e33-d17f6fc1c41f
+
+POTENTIOMETER Core 1:
+
+https://github.com/user-attachments/assets/38d41251-28b1-4ba3-8aed-46a979f11d18
+
+
+
 # Task untuk OLED
 ```cpp
 #include <Arduino.h>
@@ -166,6 +196,16 @@ void taskOLED(void *pv) {
   }
 }
 ```
+OLED Core 0:
+
+https://github.com/user-attachments/assets/7346863a-d3f7-4935-93f2-c5ebe73b2e46
+
+OLED Core 1:
+
+https://github.com/user-attachments/assets/7bd608a2-3112-493f-b586-6fb87591ae92
+
+
+
 # Task untuk ENCODER
 ```cpp
 #include <Arduino.h>
@@ -193,6 +233,16 @@ void taskEncoder(void *pv) {
   }
 }
 ```
+ENCODER Core 0:
+
+https://github.com/user-attachments/assets/94e925d8-955f-4b97-8309-17c8bfec6ca7
+
+ENCODER Core 1:
+
+https://github.com/user-attachments/assets/bf785606-52f6-408e-91b6-11c0ad0c77ab
+
+
+
 # Task untuk SERVO
 ```cpp
 #include <Arduino.h>
@@ -217,6 +267,16 @@ void taskServo(void *pv) {
   }
 }
 ```
+SERVO Core 0:
+
+https://github.com/user-attachments/assets/42651da9-b34d-4c5b-bfcc-bdbab68c23f0
+
+SERVO Core 1:
+
+https://github.com/user-attachments/assets/01f76c42-5d4f-445b-b2eb-f0174f73558e
+
+
+
 # Task untuk STEPPER
 ```cpp
 #include <Arduino.h>
@@ -244,4 +304,12 @@ void taskStepper(void *pv) {
   }
 }
 ```
+STEPPER Core 0:
+
+https://github.com/user-attachments/assets/8ddda1a9-4750-48b6-bc43-8b0cc5c7eef4
+
+STEPPER Core 1:
+
+https://github.com/user-attachments/assets/769fb321-cb34-4856-8a8a-715f7ed4af34
+
 
