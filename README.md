@@ -45,6 +45,7 @@ void setup() {
   }
 }
 ```
+untuk mengganti task maka selectedTask dapat diganti menjadi salah satu task yang terdapat pada enum berikut ini, setelah pemilihan task dilakukan, pemilihan core juga dapat di inisialisasi.
 # enum untuk memilih Task
 ```cpp
 // =================== ENUM FOR SELECTION ====================
